@@ -1,10 +1,10 @@
-"""Conversational BIM tab."""
+"""Conservation BIM tab."""
 __title__ = "ConvBIM"
 __iconpath__ = "icon.png"
-__longname__ = "Conversational BIM"
+__longname__ = "Conservation BIM"
 __description__ = "Natural language commands for BIM"
 __author__ = "Dilara Erden"
 __email__ = "up2289789@myport.ac.uk"
 __version__ = "0.1.0"
 
-"""Library initialization for ConversationalBIM extension."""
+"""Library initialization for ConservationBIM extension."""

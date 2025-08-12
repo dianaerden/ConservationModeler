@@ -1,4 +1,4 @@
-"""Utility functions for conversational building modeling."""
+"""Utility functions for conservation building modeling."""
 import clr
 
 # Add references to Revit API

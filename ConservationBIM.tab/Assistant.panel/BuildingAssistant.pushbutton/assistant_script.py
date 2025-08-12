@@ -1,4 +1,4 @@
-"""Conversational building assistant for Revit."""
+"""Conservation building assistant for Revit."""
 __title__ = 'Building\nAssistant'
 __doc__ = 'Create building elements through natural language commands'
 
@@ -342,7 +342,7 @@ while True:
     command = forms.ask_for_string(
         default="Type 'help' to see available commands",  # Default text that clears on click
         prompt='Enter your building command:',
-        title='Conversational Building Assistant',
+        title='Conservation Building Assistant',
         width=600,  # Adjust the width to fit the help text
         height=150,  # Adjust the height to make the box slightly larger
         hint='Try: wall (0,0) to (20,0) | floor 20x30 | help'  # Hint text below the input box
